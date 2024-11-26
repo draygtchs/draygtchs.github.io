@@ -1,5 +1,8 @@
 body {
   background-color: dimgray;
+  color: ivory;
+  margin-left: 16px;
+  font-family: Trebuchet MS, sans-serif;
 }
 
 h1 {
@@ -8,8 +11,3 @@ h1 {
   font-family: "Palatino", URW Palladio L, serif;
 }
 
-p {
-  color: ivory;
-  margin-left: 16px;
-  font-family: Trebuchet MS, sans-serif;
-}
